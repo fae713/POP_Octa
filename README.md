@@ -2,7 +2,7 @@
 ### To paste the command on the web terminal, right-click and select paste
 ### Also, split the screen, right-click, a menu will appear, hit h or select split horizontally.
 
-![POP Node Screenshot](Screenshot%202025-05-24%20182204.png)
+![POP Node Screenshot](Screenshot%202025-05-24%20193938.png) 
 ### Then pick the top terminal to work with first
 ---
 
